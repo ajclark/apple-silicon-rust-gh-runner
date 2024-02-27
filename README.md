@@ -1,2 +1,4 @@
 # apple-silicon-rust-gh-runner
-Github Action for building Rust code on Apple Silicon runners
+Simple GH Action Workflow to demonstrate building Rust code and publishing the binary artifact to a Github release
+
+https://github.blog/changelog/2024-01-30-github-actions-introducing-the-new-m1-macos-runner-available-to-open-source/
